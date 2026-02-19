@@ -8,7 +8,6 @@ I have hands-on experience with AWS, Azure, Docker, Kubernetes, Terraform, and C
 - 🌱 Learning **Advanced DevOps Practices and Monitoring Tools**
 - 💬 Ask me about **Cloud, DevOps, Networking, or Automation**
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/madhavan-mc/)
-- 
 ---
 
 ## 🛠️ Tech Stack
@@ -37,6 +36,7 @@ I have hands-on experience with AWS, Azure, Docker, Kubernetes, Terraform, and C
 - Hands-on experience in networking, Linux, cloud automation, and incident management  
 
 ---
+
 
 
 
