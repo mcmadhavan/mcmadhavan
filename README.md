@@ -8,8 +8,7 @@ I have hands-on experience with AWS, Azure, Docker, Kubernetes, Terraform, and C
 - 🌱 Learning **Advanced DevOps Practices and Monitoring Tools**
 - 💬 Ask me about **Cloud, DevOps, Networking, or Automation**
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/madhavan-mc/)
-- ⚡ Fun fact: I love exploring new cloud technologies and building POCs on zero budget.
-
+- 
 ---
 
 ## 🛠️ Tech Stack
@@ -25,32 +24,20 @@ I have hands-on experience with AWS, Azure, Docker, Kubernetes, Terraform, and C
 ---
 
 ## 🔗 Projects & POCs
-### 1. **Code-to-Cluster**
-- Deployed React/Express app from local machine → Docker → Kubernetes → Exposed via ALB.
+### **Code-to-Cluster**
+- Deployed React/Express app from local machine → Docker → Kubernetes.
 - GitHub: [Code-to-Cluster](https://github.com/madhavan2001/code-to-cluster-api)
 - DockerHub: [Docker Image](https://hub.docker.com/repository/docker/madhavan2001/code-to-cluster-api/general)
-
-### 2. **User Data Collector Website**
-- Built a virtualized environment using Oracle VirtualBox to collect user data and demonstrate cloud principles.
-- GitHub: [User Data Collector](https://github.com/madhavan2001/user-data-collector)
-
----
-
-## 📈 GitHub Stats
-![Madhavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavan2001&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
 ## 🏆 Achievements
 - AZ-104: Microsoft Azure Administrator Associate  
-- AZ-900: Microsoft Azure Fundamentals  
-- Completed AWS Cloud Practitioner & DevOps certifications  
+- AZ-900: Microsoft Azure Fundamentals   
 - Hands-on experience in networking, Linux, cloud automation, and incident management  
 
 ---
 
-## 💬 Let’s Connect
-- LinkedIn: [https://www.linkedin.com/in/madhavan-mc/](https://www.linkedin.com/in/madhavan-mc/)  
-- GitHub: [https://github.com/madhavan2001](https://github.com/madhavan2001)
+
 
 
